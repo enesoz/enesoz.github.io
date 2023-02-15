@@ -17,7 +17,8 @@ import { ContentComponent } from './layouts/content/content.component';
   exports: [
     HeaderComponent,
     SideBarComponent,
-    ContentComponent
+    ContentComponent,
+    FooterComponent
   ],
   imports: [
     CommonModule

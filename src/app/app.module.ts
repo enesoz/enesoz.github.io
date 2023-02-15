@@ -5,7 +5,6 @@ import { AppComponent } from './app.component';
 import {CoreModule} from "./core/core.module";
 import {MyCvModule} from "./my-cv/my-cv.module";
 
-
 @NgModule({
   declarations: [
     AppComponent ,
